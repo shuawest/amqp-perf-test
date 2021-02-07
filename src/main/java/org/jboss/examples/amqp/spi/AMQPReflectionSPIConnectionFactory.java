@@ -8,4 +8,5 @@ public class AMQPReflectionSPIConnectionFactory extends ReflectionSPIConnectionF
   public String getClassName() {
     return "org.apache.qpid.jms.JmsConnectionFactory";
   }
+
 }
